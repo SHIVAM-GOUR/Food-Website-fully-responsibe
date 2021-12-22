@@ -1,1 +1,1 @@
-# Food-Website-fully-responsibe
+# Food-Website-fully-responsive
